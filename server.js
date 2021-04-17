@@ -36,7 +36,9 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(express.static(path.join(__dirname, "public")));
 
-app.use(require('./controllers/api-routes'));
+app.use('/dashboard',require('./controllers/dashboard-routes.js'));
+app.use(require('./controllers/home-routes.js'));
+app.use('/api',require('./controllers/api-routes'));
 
 app.listen(PORT, () => {
   console.log(`App listening on port ${PORT}!`);
