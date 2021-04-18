@@ -1,27 +1,20 @@
-# effective-engine
+# Effective-Engine
 ## Description
-A CMS style blog that follows the MVC structure.
-
-  
-## Description
-
-
-
+A CMS style blog named The Tech Blog that follows the MVC structure.
 
 ## Technologies
 
-JavaScript, CSS, Node, React, GraphQL and Redux.
+JavaScript, CSS, Node, MySQL and JawsDB.
 
 
-## Link 
+## Link to deployed site
 
-[Redux store deployed page]()
+[deployed page link](https://techblogchallenge.herokuapp.com/)
 
 
 
 ## Usage
-
-    
+As mentioned above The Tech Blog A CMS-style blog site. This site is for developers, where developers can post their blog posts and comment on other user's posts as well.
 
     
 
