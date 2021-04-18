@@ -12,10 +12,6 @@ JavaScript, CSS, Node, MySQL and JawsDB.
 [deployed page link](https://techblogchallenge.herokuapp.com/)
 
 
-
-## Usage
-As mentioned above The Tech Blog A CMS-style blog site. This site is for developers, where developers can post their blog posts and comment on other user's posts as well.
-
     
 
 ## License
